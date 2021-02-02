@@ -1,7 +1,7 @@
 d:assets:assets:0:application/unknown:1
 d:TextureAtlasOut:TextureAtlasOut:0:application/unknown:1
-t:TextureAtlasOut/devPack.atlas:TextureAtlasOut/devPack-d51d07e0604c982f6c34f3bacf6c6225.atlas:2671:application/unknown:1
-i:TextureAtlasOut/devPack.png:TextureAtlasOut/devPack-385665f51b4cd09d1e15a6a5d612f3e5.png:11133:image/png:1
+t:TextureAtlasOut/devPack.atlas:TextureAtlasOut/devPack-abf8bd0b18387d795b6272933ac15e0b.atlas:2880:application/unknown:1
+i:TextureAtlasOut/devPack.png:TextureAtlasOut/devPack-013042a018e034119c9b535a0c5b008b.png:135290:image/png:1
 i:homebase.png:homebase-3b8dabf7e407a0003cecb9fe1fe7443f.png:26509:image/png:1
 d:TextureAtlas:TextureAtlas:0:application/unknown:1
 i:TextureAtlas/CityBombTurretNormal_4.png:TextureAtlas/CityBombTurretNormal_4-79fbe891ecf31d87dc1eb6949b956212.png:206:image/png:1
