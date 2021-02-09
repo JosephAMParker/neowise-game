@@ -1,0 +1,286 @@
+
+devPack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CityBombTurretArmed
+  rotate: false
+  xy: 665, 374
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 0
+CityBombTurretArmed
+  rotate: false
+  xy: 665, 374
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 1
+CityBombTurretArmed
+  rotate: false
+  xy: 368, 210
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 2
+CityBombTurretNormal
+  rotate: false
+  xy: 577, 286
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 6
+CityBombTurretNormal
+  rotate: false
+  xy: 456, 266
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 3
+CityBombTurretNormal
+  rotate: false
+  xy: 650, 716
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 0
+CityBombTurretNormal
+  rotate: false
+  xy: 846, 912
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 5
+CityBombTurretNormal
+  rotate: false
+  xy: 999, 962
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 2
+CityBombTurretNormal
+  rotate: false
+  xy: 606, 657
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 4
+CityBombTurretNormal
+  rotate: false
+  xy: 633, 684
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 1
+GameOver
+  rotate: false
+  xy: 204, 388
+  size: 573, 106
+  orig: 573, 106
+  offset: 0, 0
+  index: -1
+ShipTestShip
+  rotate: false
+  xy: 430, 224
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: 1
+ShipTestShip
+  rotate: false
+  xy: 712, 730
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: 0
+ShipWeaponUpgrader
+  rotate: false
+  xy: 908, 926
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: 0
+backToMain
+  rotate: false
+  xy: 2, 280
+  size: 573, 106
+  orig: 573, 106
+  offset: 0, 0
+  index: -1
+bluestar
+  rotate: false
+  xy: 204, 618
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+bombtest
+  rotate: false
+  xy: 577, 344
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 4
+bombtest
+  rotate: false
+  xy: 972, 976
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 1
+bombtest
+  rotate: false
+  xy: 368, 236
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 6
+bombtest
+  rotate: false
+  xy: 606, 698
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 3
+bombtest
+  rotate: false
+  xy: 802, 894
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 8
+bombtest
+  rotate: false
+  xy: 198, 154
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 0
+bombtest
+  rotate: false
+  xy: 577, 300
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 5
+bombtest
+  rotate: false
+  xy: 621, 344
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 2
+bombtest
+  rotate: false
+  xy: 412, 236
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: 7
+earth
+  rotate: false
+  xy: 2, 2
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+earth3
+  rotate: false
+  xy: 606, 742
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+finishedDash
+  rotate: false
+  xy: 650, 730
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+leftButton
+  rotate: false
+  xy: 972, 949
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+lockedDash
+  rotate: false
+  xy: 846, 926
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 204, 496
+  size: 482, 120
+  orig: 482, 120
+  offset: 0, 0
+  index: -1
+newgame
+  rotate: false
+  xy: 2, 198
+  size: 364, 80
+  orig: 364, 80
+  offset: 0, 0
+  index: -1
+newgame2
+  rotate: false
+  xy: 606, 938
+  size: 364, 80
+  orig: 364, 80
+  offset: 0, 0
+  index: -1
+playableDash
+  rotate: false
+  xy: 368, 224
+  size: 60, 10
+  orig: 60, 10
+  offset: 0, 0
+  index: -1
+rightButton
+  rotate: false
+  xy: 242, 171
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+shootButton
+  rotate: false
+  xy: 802, 867
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+spaceBack2
+  rotate: false
+  xy: 2, 393
+  size: 200, 625
+  orig: 200, 625
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 198, 127
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 606, 671
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 621, 317
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
